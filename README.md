@@ -10,8 +10,14 @@
 This repository contains the challenges of [algorithms](https://www.hackerrank.com/domains/algorithms) and [data structure](https://www.hackerrank.com/domains/data-structures) of the site Hackerrank.
 
 
-## Content
-#### Algorithms
+## Algorithms
+---
+### Warmup
+| Problem Statement | Solution | Difficulty | Score |
+| :--------------- | :------: | :--------: | :---: |
+| [A Very Big Sum]() | .. | Easy | 10 |
+
+
 | Subdomain	| Problem Statement | Solution | Difficulty | Score |
 | :-------: | :---------------: | :------: | :--------: | :---: |
 | Warmup | .. | .. | Easy | 10 |
