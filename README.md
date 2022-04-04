@@ -2,7 +2,7 @@
 
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-80-sucess.svg">
-	<img src="https://img.shields.io/badge/Score-2100-yellow.svg">
+	<img src="https://img.shields.io/badge/Score-2200-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-c++-blue.svg">
 </p>
 
