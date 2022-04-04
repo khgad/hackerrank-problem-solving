@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/Mr2520"><img src="https://hrcdn.net/hackerrank/assets/styleguide/logo_wordmark-13074b67abceb42ce8fd38bdeaac6926.svg" height="200"></a></p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-81-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-80-sucess.svg">
 	<img src="https://img.shields.io/badge/Score-2100-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-c++-blue.svg">
 </p>
@@ -9,6 +9,27 @@
 # Hackerrank Problem Solving
 This repository contains the challenges of [algorithms](https://www.hackerrank.com/domains/algorithms) and [data structure](https://www.hackerrank.com/domains/data-structures) of the site Hackerrank.
 
+<br>
+
+## Content
+[Algorithms](https://github.com/KhalidGad/hackerrank-problem-solving#algorithms)
+  - [Warmup](https://github.com/KhalidGad/hackerrank-problem-solving#warmup)
+  - [Implementation](https://github.com/KhalidGad/hackerrank-problem-solving#implementation)
+  - [Strings](https://github.com/KhalidGad/hackerrank-problem-solving#strings)
+  - [Sorting](https://github.com/KhalidGad/hackerrank-problem-solving#sorting)
+  - [Search](https://github.com/KhalidGad/hackerrank-problem-solving#search)
+  - [GraphTheory](https://github.com/KhalidGad/hackerrank-problem-solving#graphtheory)
+  - [Greedy](https://github.com/KhalidGad/hackerrank-problem-solving#greedy)
+  - [DynamicProgramming](https://github.com/KhalidGad/hackerrank-problem-solving#dynamicprogramming)
+  - [Recursion](https://github.com/KhalidGad/hackerrank-problem-solving#recursion)
+  
+[DataStructures](https://github.com/KhalidGad/hackerrank-problem-solving#datastructures)
+  - [Arrays](https://github.com/KhalidGad/hackerrank-problem-solving#arrays)
+  - [Trees](https://github.com/KhalidGad/hackerrank-problem-solving#trees)
+  - [Stacks](https://github.com/KhalidGad/hackerrank-problem-solving#stacks)
+  - [Queues](https://github.com/KhalidGad/hackerrank-problem-solving#queues)
+
+<br>
 
 ## Algorithms
 
